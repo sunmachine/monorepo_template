@@ -1,0 +1,11 @@
+{
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "eslint.format.enable": true,
+  "eslint.ignoreUntitled": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.formatOnSave": true
+}
